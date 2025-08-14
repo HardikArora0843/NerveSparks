@@ -255,10 +255,3 @@ For production deployment:
 4. Add tests and documentation
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Note**: This is a comprehensive RAG system designed for production use. Ensure all API keys are properly configured and secured before deployment.
